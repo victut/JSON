@@ -1,1 +1,9 @@
-new json
+{
+	"firstName" : "Victoria",
+        "lastName": "Tutaeva",
+	"patronymic" : "Vasilevna",
+	"age" : 33,
+	"pet" : 0,
+	"future desired salary" : "1500$"
+}
+
