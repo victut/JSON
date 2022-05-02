@@ -1,8 +1,8 @@
 {
-	"favorite movie" : "Lord of the Rings",
-	"favorite series" : "Suits",
-	"favorite food" : "ice cream",
-	"favorite season" : "Spring",
+	"favoriteMovie" : "Lord of the Rings",
+	"favoriteSeries" : "Suits",
+	"favoriteFood" : "ice cream",
+	"favoriteSeason" : "Spring",
 	"countryYouWouldLikeToVisit" : "USA"
 }
 
